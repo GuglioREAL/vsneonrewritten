@@ -5,11 +5,11 @@ This is a port of the VS. Neon mod to the Vasion Funkin' Rewritten engine, which
 
 CREDITS:
 
-VS. Neon: https://gamebanana.com/mods/44570
-AdventNEON: https://store.steampowered.com/app/1528260/Advent_NEON/
-Funkin' Rewritten: https://github.com/HTV04/funkin-rewritten
-Vasion Funkin' Rewritten: https://github.com/GameVasion/funkin-rewritten-vasion
-Base Game: https://www.newgrounds.com/portal/view/770371
+* VS. Neon: https://gamebanana.com/mods/44570
+* AdventNEON: https://store.steampowered.com/app/1528260/Advent_NEON/
+* Funkin' Rewritten: https://github.com/HTV04/funkin-rewritten
+* Vasion Funkin' Rewritten: https://github.com/GameVasion/funkin-rewritten-vasion
+* Base Game: https://www.newgrounds.com/portal/view/770371
 
 Check out AdventNEON!
 
