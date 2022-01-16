@@ -1,6 +1,20 @@
 # ![Logo](images/logo.png)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/releases/latest) [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/HTV04/funkin-rewritten?include_prereleases&style=flat-square)](https://github.com/HTV04/funkin-rewritten/releases) [![GitHub all releases](https://img.shields.io/github/downloads/HTV04/funkin-rewritten/total?style=flat-square)](https://github.com/HTV04/funkin-rewritten/releases) [![GitHub issues](https://img.shields.io/github/issues/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/issues) [![GitHub](https://img.shields.io/github/license/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/blob/main/LICENSE) [![Discord](https://img.shields.io/discord/852658576577003550?style=flat-square)](https://discord.gg/tQGzN2Wu48)
 
+This is a port of the VS. Neon mod to the Vasion Funkin' Rewritten engine, which is a modification of Funkin' Rewritten. It's missing the dialogue and transformation sequence, but it's otherwise a functional port. Current supported platforms are Windows and Nintendo Switch (HOMEBREW).
+
+CREDITS:
+
+VS. Neon: https://gamebanana.com/mods/44570
+AdventNEON: https://store.steampowered.com/app/1528260/Advent_NEON/
+Funkin' Rewritten: https://github.com/HTV04/funkin-rewritten
+Vasion Funkin' Rewritten: https://github.com/GameVasion/funkin-rewritten-vasion
+Base Game: https://www.newgrounds.com/portal/view/770371
+
+Check out AdventNEON!
+
+ORIGINAL DESCRIPTION:
+
 Friday Night Funkin' Rewritten is a rewrite of [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) built on [LÖVE](https://love2d.org/) for Windows, macOS, Linux, and Web platforms, as well as previously unsupported platforms, like the Nintendo Switch!
 
 Friday Night Funkin' Vasion is a modification of [Friday Night Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten/releases) and should not be treated as an official download for it.
